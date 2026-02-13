@@ -27,7 +27,7 @@ Esta interface foi desenvolvida para explorar a manipulação dinâmica de eleme
 
 ## 🌎 Visualização Online
 A interface pode ser acessada em tempo real através do link abaixo:
-👉 [Visualizar Projeto](https://gabriellyleitedev.github.io/homepage-carros/)
+👉 [Visualizar Projeto](https://gabriellyleitedev.github.io/Luxury-Cars-Selection/)
 
 ---
 
